@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/smarkuck/Websocket-chat/bot"
+	"github.com/smarkuck/WebSocket-chat/bot"
 	"golang.org/x/net/websocket"
 )
 
