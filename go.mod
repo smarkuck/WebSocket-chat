@@ -1,4 +1,4 @@
-module github.com/smarkuck/Websocket-chat
+module github.com/smarkuck/WebSocket-chat
 
 go 1.17
 
